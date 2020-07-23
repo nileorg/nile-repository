@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Burger Classico",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "130 gr. burger di Scottona, pomodoro, lattuga, maionese e ketchup",
+    "price": 4.5,
+    "tags": [
+      "hamburger"
+    ]
+  },
+  {
+    "name": "Cheese Burger",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "130 gr. burger di Scottona, doppio cheddar, lattuga, maionese e ketchup",
+    "price": 5.5,
+    "tags": [
+      "hamburger",
+      "cheddar"
+    ]
+  },
+  {
+    "name": "Bacon Burger",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "130 gr. burger di Scottona, bacon, cheddar, cipolla caramellata, maionese e senape",
+    "price": 5.5,
+    "tags": [
+      "hamburger",
+      "cheddar",
+      "bacon",
+      "senape",
+      "cipolla"
+    ]
+  },
+  {
+    "name": "Ovo Burger",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "130 gr. burger di Scottona, bacon, cheddar, uovo, lattuga, maionese e ketchup",
+    "price": 6.5,
+    "tags": [
+      "hamburger",
+      "uovo",
+      "cheddar"
+    ]
+  },
+  {
+    "name": "“Al Piasintei” Burger",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "130 gr. trita di cavallo, cipolla caramellata, lattuga e salsa barbecue",
+    "price": 6.5,
+    "tags": [
+      "hamburger",
+      "cavallo",
+      "cipolla"
+    ]
+  },
+  {
+    "name": "vegan burger",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "Hamburger vegetale di ceci e zenzero, lattuga, pomodoro e ketchup vegan",
+    "price": 5.0,
+    "tags": [
+      "hamburger",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Il Masetto",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "130 gr. burger di Scottona, bacon,  cipolla caramellata e salsa barbecue",
+    "price": 5.0,
+    "tags": [
+      "hamburger",
+      "cipolla",
+      "barbecue"
+    ]
+  },
+  {
+    "name": "Chicken Burger",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "Petto di pollo, lattuga, pomodoro,  maionese e ketchup",
+    "price": 5.0,
+    "tags": [
+      "hamburger",
+      "pollo"
+    ]
+  },
+  {
+    "name": "“Al Gorgonzola” Burger",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "130 gr. burger di Scottona, Gorgonzola, cipolla caramellata, lattuga, maionese e ketchup",
+    "price": 6.0,
+    "tags": [
+      "hamburger",
+      "zola",
+      "cipolla"
+    ]
+  },
+  {
+    "name": "Hot Burger",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "130 gr. burger di Scottona, bacon, cheddar,  cipolla caramellata, salsa hot e ketchup",
+    "price": 5.5,
+    "tags": [
+      "hamburger",
+      "hot",
+      "cheddar",
+      "bacon"
+    ]
+  },
+  {
+    "name": "Pesto Burger",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "130 gr. burger di Scottona, scaglie di Grana,  pesto Genovese, lattuga e pomodoro",
+    "price": 5.5,
+    "tags": [
+      "hamburger",
+      "pesto",
+      "grana"
+    ]
+  },
+  {
+    "name": "Big Burger (big)",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "2x130 gr. burger di Chianina, bacon, cheddar, lattuga, maionese e ketchup",
+    "price": 8.0,
+    "tags": [
+      "hamburger",
+      "big",
+      "cheddar",
+      "bacon"
+    ]
+  },
+  {
+    "name": "Big Pork (big)",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/c9/40/walker-burger.jpg",
+    "description": "2x130 gr. burger di salamella, peperone,  cipolla caramellata e salsa barbecue",
+    "price": 8.0,
+    "tags": [
+      "hamburger",
+      "big",
+      "pork",
+      "cipolla",
+      "barbecue"
+    ]
+  }
+]
