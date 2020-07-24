@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/nileorg/nile-repository#readme",
   "dependencies": {
-    "ipfs": "^0.48.1"
+    "ipfs": "^0.48.1",
+    "node-fetch": "^2.6.0"
   }
 }
