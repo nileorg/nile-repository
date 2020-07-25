@@ -1,0 +1,13 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  trigger_publisher:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: 'curl -X POST -I -H "Authorization: ${{ secrets.NILE_PUBLISHER_TOKEN }}" ${{ secrets.NILE_PUBLISHER_HOST }}/publish'
