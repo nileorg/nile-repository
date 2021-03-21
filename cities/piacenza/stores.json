@@ -72,7 +72,12 @@
     "image": "https://www.psw-group.de/blog/wp-content/uploads/2020/04/fake-shops.jpg",
     "logo": "https://www.psw-group.de/blog/wp-content/uploads/2020/04/fake-shops.jpg",
     "tags": [],
-    "contacts": [],
+    "contacts": [
+      {
+        "type": "whatsapp",
+        "value": "+393341129020"
+      }
+    ],
     "paymentMethods": [
       {
         "type": "cash",
