@@ -64,5 +64,20 @@
         "value": ""
       }
     ]
+  },
+  {
+    "uid": "test",
+    "name": "Test Shop",
+    "description": "Non comprare",
+    "image": "https://www.psw-group.de/blog/wp-content/uploads/2020/04/fake-shops.jpg",
+    "logo": "https://www.psw-group.de/blog/wp-content/uploads/2020/04/fake-shops.jpg",
+    "tags": [],
+    "contacts": [],
+    "paymentMethods": [
+      {
+        "type": "cash",
+        "value": ""
+      }
+    ]
   }
 ]

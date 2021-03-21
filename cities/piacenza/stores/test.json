@@ -1,0 +1,255 @@
+[
+    {
+        "name": "bietole",
+        "image": "https://picsum.photos/200",
+        "description": "bietole description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€/Kg",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "prenotazione tavolo",
+        "image": "https://picsum.photos/200",
+        "description": "prenotazione",
+        "price": 0,
+        "tags": [],
+        "suffixSingle": "persone",
+        "suffixTotal": "persone",
+        "excludeFromTotal": true
+    },
+    {
+        "name": "carciofi",
+        "image": "https://picsum.photos/200",
+        "description": "carciofi description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "carote",
+        "image": "https://picsum.photos/200",
+        "description": "carote description",
+        "price": 0,
+        "tags": [
+            "verdura",
+            "tubero"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "cardi",
+        "image": "https://picsum.photos/200",
+        "description": "cardi description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "cavolfiori",
+        "image": "https://picsum.photos/200",
+        "description": "cavolfiori description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "cavoli",
+        "image": "https://picsum.photos/200",
+        "description": "cavoli description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "cavolini di Bruxelles",
+        "image": "https://picsum.photos/200",
+        "description": "cavolini di Bruxelles description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "catalogna",
+        "image": "https://picsum.photos/200",
+        "description": "catalogna description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "cicoria",
+        "image": "https://picsum.photos/200",
+        "description": "cicoria description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "cipolle",
+        "image": "https://picsum.photos/200",
+        "description": "cipolle description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "finocchi",
+        "image": "https://picsum.photos/200",
+        "description": "finocchi description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "indivia belga e riccia",
+        "image": "https://picsum.photos/200",
+        "description": "indivia belga e riccia description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "lattuga",
+        "image": "https://picsum.photos/200",
+        "description": "lattuga description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "patate",
+        "image": "https://picsum.photos/200",
+        "description": "patate description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "porri",
+        "image": "https://picsum.photos/200",
+        "description": "porri description",
+        "price": 0,
+        "tags": [
+            "verdura",
+            "tubero"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "radicchio rosso",
+        "image": "https://picsum.photos/200",
+        "description": "radicchio rosso description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "rape",
+        "image": "https://picsum.photos/200",
+        "description": "rape description",
+        "price": 1,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "sedano",
+        "image": "https://picsum.photos/200",
+        "description": "sedano description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "spinaci",
+        "image": "https://picsum.photos/200",
+        "description": "spinaci description",
+        "price": 0,
+        "tags": [
+            "verdura"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    },
+    {
+        "name": "topinambur",
+        "image": "https://picsum.photos/200",
+        "description": "topinambur description",
+        "price": 0,
+        "tags": [
+            "verdura",
+            "tubero"
+        ],
+        "suffixSingle": "€",
+        "suffixTotal": "€",
+        "excludeFromTotal": false
+    }
+]
