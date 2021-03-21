@@ -15,7 +15,7 @@
         "name": "prenotazione tavolo",
         "image": "https://picsum.photos/200",
         "description": "prenotazione",
-        "price": 0.86,
+        "price": 1,
         "tags": [],
         "suffixSingle": "persone",
         "suffixTotal": "persone",
