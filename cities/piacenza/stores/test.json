@@ -3,7 +3,7 @@
         "name": "bietole",
         "image": "https://picsum.photos/200",
         "description": "bietole description",
-        "price": 0,
+        "price": 0.71,
         "tags": [
             "verdura"
         ],
@@ -15,7 +15,7 @@
         "name": "prenotazione tavolo",
         "image": "https://picsum.photos/200",
         "description": "prenotazione",
-        "price": 0,
+        "price": 0.86,
         "tags": [],
         "suffixSingle": "persone",
         "suffixTotal": "persone",
@@ -25,7 +25,7 @@
         "name": "carciofi",
         "image": "https://picsum.photos/200",
         "description": "carciofi description",
-        "price": 0,
+        "price": 15,
         "tags": [
             "verdura"
         ],
@@ -37,7 +37,7 @@
         "name": "carote",
         "image": "https://picsum.photos/200",
         "description": "carote description",
-        "price": 0,
+        "price": 2.5,
         "tags": [
             "verdura",
             "tubero"
@@ -50,7 +50,7 @@
         "name": "cardi",
         "image": "https://picsum.photos/200",
         "description": "cardi description",
-        "price": 0,
+        "price": 1.2,
         "tags": [
             "verdura"
         ],
@@ -62,7 +62,7 @@
         "name": "cavolfiori",
         "image": "https://picsum.photos/200",
         "description": "cavolfiori description",
-        "price": 0,
+        "price": 6.7,
         "tags": [
             "verdura"
         ],
@@ -74,7 +74,7 @@
         "name": "cavoli",
         "image": "https://picsum.photos/200",
         "description": "cavoli description",
-        "price": 0,
+        "price": 3.4,
         "tags": [
             "verdura"
         ],
@@ -86,7 +86,7 @@
         "name": "cavolini di Bruxelles",
         "image": "https://picsum.photos/200",
         "description": "cavolini di Bruxelles description",
-        "price": 0,
+        "price": 15,
         "tags": [
             "verdura"
         ],
@@ -98,7 +98,7 @@
         "name": "catalogna",
         "image": "https://picsum.photos/200",
         "description": "catalogna description",
-        "price": 0,
+        "price": 2.5,
         "tags": [
             "verdura"
         ],
@@ -110,7 +110,7 @@
         "name": "cicoria",
         "image": "https://picsum.photos/200",
         "description": "cicoria description",
-        "price": 0,
+        "price": 1.2,
         "tags": [
             "verdura"
         ],
@@ -122,7 +122,7 @@
         "name": "cipolle",
         "image": "https://picsum.photos/200",
         "description": "cipolle description",
-        "price": 0,
+        "price": 6.7,
         "tags": [
             "verdura"
         ],
@@ -134,7 +134,7 @@
         "name": "finocchi",
         "image": "https://picsum.photos/200",
         "description": "finocchi description",
-        "price": 0,
+        "price": 3.4,
         "tags": [
             "verdura"
         ],
@@ -146,7 +146,7 @@
         "name": "indivia belga e riccia",
         "image": "https://picsum.photos/200",
         "description": "indivia belga e riccia description",
-        "price": 0,
+        "price": 15,
         "tags": [
             "verdura"
         ],
@@ -158,7 +158,7 @@
         "name": "lattuga",
         "image": "https://picsum.photos/200",
         "description": "lattuga description",
-        "price": 0,
+        "price": 2.5,
         "tags": [
             "verdura"
         ],
@@ -170,7 +170,7 @@
         "name": "patate",
         "image": "https://picsum.photos/200",
         "description": "patate description",
-        "price": 0,
+        "price": 1.2,
         "tags": [
             "verdura"
         ],
@@ -182,7 +182,7 @@
         "name": "porri",
         "image": "https://picsum.photos/200",
         "description": "porri description",
-        "price": 0,
+        "price": 6.7,
         "tags": [
             "verdura",
             "tubero"
@@ -195,7 +195,7 @@
         "name": "radicchio rosso",
         "image": "https://picsum.photos/200",
         "description": "radicchio rosso description",
-        "price": 0,
+        "price": 3.4,
         "tags": [
             "verdura"
         ],
@@ -219,7 +219,7 @@
         "name": "sedano",
         "image": "https://picsum.photos/200",
         "description": "sedano description",
-        "price": 0,
+        "price": 2,
         "tags": [
             "verdura"
         ],
@@ -231,7 +231,7 @@
         "name": "spinaci",
         "image": "https://picsum.photos/200",
         "description": "spinaci description",
-        "price": 0,
+        "price": 3,
         "tags": [
             "verdura"
         ],
@@ -243,7 +243,7 @@
         "name": "topinambur",
         "image": "https://picsum.photos/200",
         "description": "topinambur description",
-        "price": 0,
+        "price": 3,
         "tags": [
             "verdura",
             "tubero"
